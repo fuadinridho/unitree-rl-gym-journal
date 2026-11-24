@@ -1,0 +1,25 @@
+{
+  "task": "g1_decimation8_v2",
+  "decimation": 8,
+  "control_hz": 25.00000055879356,
+  "mass_kg": 32.10685741901398,
+  "dof_names": [
+    "left_hip_pitch_joint",
+    "left_hip_roll_joint",
+    "left_hip_yaw_joint",
+    "left_knee_joint",
+    "left_ankle_pitch_joint",
+    "left_ankle_roll_joint",
+    "right_hip_pitch_joint",
+    "right_hip_roll_joint",
+    "right_hip_yaw_joint",
+    "right_knee_joint",
+    "right_ankle_pitch_joint",
+    "right_ankle_roll_joint"
+  ],
+  "force_thr_N": 1.0,
+  "sim_dt": 0.004999999888241291,
+  "vx_cmd": 0.6,
+  "episode_s": 20.0,
+  "repeats": 2
+}

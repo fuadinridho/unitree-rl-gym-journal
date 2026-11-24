@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.egg-info/
+events.out.tfevents*
+logs/*_stdout*/
+eval_results_v2_energy/foot/
